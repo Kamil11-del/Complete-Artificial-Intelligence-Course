@@ -1,0 +1,3 @@
+ahmad = 93
+sara = 46
+ali = 94
